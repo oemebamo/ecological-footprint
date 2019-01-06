@@ -10,4 +10,4 @@
 | 2018-05-06 | Business | UA951: Brussels (BRU) - Washington, DC (IAD) | 1 | 6300km | 1.2t CO2 | No |
 
 
-_(Using https://co2.myclimate.org/en/flight_calculators/new to calculate.)_
+_(Using https://co2.myclimate.org/en/flight_calculators/new to calculate footprint.)_
