@@ -19,6 +19,6 @@
 | 2016-12-09 | Tourism | AY559: Helsinki (HEL) - Kittila (KTT) | 2 | 800km | 0.401t CO2 | No |
 | 2016-12-09 | Tourism | AY812: Brussels (BRU) - Helsinki (HEL) | 2 | 1600km | 0.663t CO2 | No |
 | 2016-11-24 | Tourism | TAP674: Lisbon (LIS) - Brussels (BRU) | 2 | 1700km | 0.694t CO2 | No |
-| 2016-11-19 | Tourism | 2016-11-19 FR2931: Brussels (BRU) - Lisbon (LIS) | 2 | 1700km | 0.694t CO2 | No |
+| 2016-11-19 | Tourism | FR2931: Brussels (BRU) - Lisbon (LIS) | 2 | 1700km | 0.694t CO2 | No |
 
 _(Using https://co2.myclimate.org/en/flight_calculators/new to calculate footprint.)_
