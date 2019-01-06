@@ -23,14 +23,14 @@
 | 2013-08-18 | Tourism | FI554: Keflavik (KEF) - Brussels (BRU) | 2 | 2200km | 0.856t CO2 | No |
 | 2013-07-25 | Tourism | FI555: Brussels (KEF) - Keflavik (KEF) | 2 | 2200km | 0.856t CO2 | No |
 
-
 - <sup>(1)</sup> Using https://co2.myclimate.org/en/flight_calculators/new to calculate footprint.
 - <sup>(2)</sup> Whether or not the CO2 footprint of this flight was compensated.
 
-# C02 Compensation
+# CO2 Compensation
 
 - <sup>(3)</sup> 2019-01-06: Compensated via GreenTripper.org by supporting [The Paradigm Project](https://www.co2logic.com/sites/default/files/documents/GS%20VER_Kenya%20Paradigm_eng_0.pdf), avoiding deforestation in Kenya.
 
 More resources:
+
 - [GreenTripper.org](https://www.greentripper.org/)
 - [Brussels Airlines CO2 Compensation](https://www.brusselsairlines.com/nl-be/corporate/maatschappelijke-verantwoordelijkheid/co2-compensatie.aspx)
