@@ -8,6 +8,8 @@
 | 2018-10-09 | Business | SN501: Brussels (BRU) - New York Kennedy, NY (JFK) | 1 | 5900km | 1.1t CO2 | No |
 | 2018-05-11 | Business | UA950: Washington, DC (IAD) - Brussels (BRU) | 1 | 6300km | 1.2t CO2 | No |
 | 2018-05-06 | Business | UA951: Brussels (BRU) - Washington, DC (IAD) | 1 | 6300km | 1.2t CO2 | No |
+| 2018-01-05 | Tourism | OS8173: Vienna (VIA) - Brussels (BRU) | 2 | 900km | 0.423t CO2 | No |
+| 2017-12-29 | Tourism | OS352: Brussels (BRU) - Vienna (VIA) | 2 | 900km | 0.423t CO2 | No |
 
 
 _(Using https://co2.myclimate.org/en/flight_calculators/new to calculate footprint.)_
