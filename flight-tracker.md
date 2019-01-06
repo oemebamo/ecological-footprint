@@ -14,5 +14,7 @@
 | 2017-05-04 | Business | TAP224: Miami (MIA) - Lisbon (LIS) | 1 | 6700km | 1.2t CO2 | No |
 | 2017-05-01 | Business | TAP223: Lisbon (LIS) - Miami (MIA) | 1 | 6700km | 1.2t CO2 | No |
 | 2017-05-01 | Business | TAP611: Brussels (BRU) - Lisbon (LIS) | 1 | 1700km | 0.347t CO2 | No |
+| 2016-11-24 | Tourism | TAP674: Lisbon (LIS) - Brussels (BRU) | 2 | 1700km | 0.694t CO2 | No |
+| 2016-11-19 | Tourism | 2016-11-19 FR2931: Brussels (BRU) - Lisbon (LIS) | 2 | 1700km | 0.694t CO2 | No |
 
 _(Using https://co2.myclimate.org/en/flight_calculators/new to calculate footprint.)_
