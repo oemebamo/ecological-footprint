@@ -20,5 +20,7 @@
 | 2016-12-09 | Tourism | AY812: Brussels (BRU) - Helsinki (HEL) | 2 | 1600km | 0.663t CO2 | No |
 | 2016-11-24 | Tourism | TAP674: Lisbon (LIS) - Brussels (BRU) | 2 | 1700km | 0.694t CO2 | No |
 | 2016-11-19 | Tourism | FR2931: Brussels (BRU) - Lisbon (LIS) | 2 | 1700km | 0.694t CO2 | No |
+| 2013-08-18 | Tourism | FI554: Keflavik (KEF) - Brussels (BRU) | 2 | 2200km | 0.856t CO2 | No |
+| 2013-07-25 | Tourism | FI555: Brussels (KEF) - Keflavik (KEF) | 2 | 2200km | 0.856t CO2 | No |
 
 _(Using https://co2.myclimate.org/en/flight_calculators/new to calculate footprint.)_
