@@ -14,6 +14,10 @@
 | 2017-05-04 | Business | TAP224: Miami (MIA) - Lisbon (LIS) | 1 | 6700km | 1.2t CO2 | No |
 | 2017-05-01 | Business | TAP223: Lisbon (LIS) - Miami (MIA) | 1 | 6700km | 1.2t CO2 | No |
 | 2017-05-01 | Business | TAP611: Brussels (BRU) - Lisbon (LIS) | 1 | 1700km | 0.347t CO2 | No |
+| 2016-12-16 | Tourism | AY557: Kittila (KTT) - Helsinki (HEL) | 2 | 1600km | 0.663t CO2 | No |
+| 2016-12-16 | Tourism | AY817: Helsinki (HEL) - Brussels (BRU) | 2 | 800km | 0.401t CO2 | No |
+| 2016-12-09 | Tourism | AY559: Helsinki (HEL) - Kittila (KTT) | 2 | 800km | 0.401t CO2 | No |
+| 2016-12-09 | Tourism | AY812: Brussels (BRU) - Helsinki (HEL) | 2 | 1600km | 0.663t CO2 | No |
 | 2016-11-24 | Tourism | TAP674: Lisbon (LIS) - Brussels (BRU) | 2 | 1700km | 0.694t CO2 | No |
 | 2016-11-19 | Tourism | 2016-11-19 FR2931: Brussels (BRU) - Lisbon (LIS) | 2 | 1700km | 0.694t CO2 | No |
 
