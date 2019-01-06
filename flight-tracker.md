@@ -24,5 +24,5 @@
 | 2013-07-25 | Tourism | FI555: Brussels (KEF) - Keflavik (KEF) | 2 | 2200km | 0.856t CO2 | No |
 
 
-- (1) Using https://co2.myclimate.org/en/flight_calculators/new to calculate footprint.
-- (2) Whether or not the CO2 footprint of this flight was compensated.
+- <sup>(1)</sup> Using https://co2.myclimate.org/en/flight_calculators/new to calculate footprint.
+- <sup>(2)</sup> Whether or not the CO2 footprint of this flight was compensated.
