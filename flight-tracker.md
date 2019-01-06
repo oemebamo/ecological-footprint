@@ -1,6 +1,6 @@
 # ✈️ Flight Tracker
 
-| Date | Reason | Flight | People | Distance | Footprint | Compensated? |
+| Date | Reason | Flight | People | Distance | Footprint | Comp'd? |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2018-11-25 | Tourism | SN3784: Gran Canaria (LAP) - Brussels (BRU) | 3 | 3029km | 1.8t CO2 | No |
 | 2018-11-17 | Tourism | SN3783: Brussels (BRU) - Gran Canaria (LAP) | 3 | 3029km | 1.8t CO2 | No |
