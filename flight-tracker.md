@@ -2,8 +2,8 @@
 
 | Date | Reason | Flight | People | Distance | Footprint <sup>(1)</sup> | Comp'd? <sup>(2)</sup> |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2018-11-25 | Tourism | SN3784: Gran Canaria (LAP) - Brussels (BRU) | 3 | 3029km | 1.8t CO2 | No |
-| 2018-11-17 | Tourism | SN3783: Brussels (BRU) - Gran Canaria (LAP) | 3 | 3029km | 1.8t CO2 | No |
+| 2018-11-25 | Tourism | SN3784: Gran Canaria (LAP) - Brussels (BRU) | 3 | 3029km | 1.8t CO2 | Yes <sup>(3)</sup> |
+| 2018-11-17 | Tourism | SN3783: Brussels (BRU) - Gran Canaria (LAP) | 3 | 3029km | 1.8t CO2 | Yes <sup>(3)</sup> |
 | 2018-10-12 | Business | SN502: New York Kennedy, NY (JFK) - Brussels (BRU) | 1 | 5900km | 1.1t CO2 | No |
 | 2018-10-09 | Business | SN501: Brussels (BRU) - New York Kennedy, NY (JFK) | 1 | 5900km | 1.1t CO2 | No |
 | 2018-05-11 | Business | UA950: Washington, DC (IAD) - Brussels (BRU) | 1 | 6300km | 1.2t CO2 | No |
@@ -26,3 +26,11 @@
 
 - <sup>(1)</sup> Using https://co2.myclimate.org/en/flight_calculators/new to calculate footprint.
 - <sup>(2)</sup> Whether or not the CO2 footprint of this flight was compensated.
+
+# C02 Compensation
+
+- <sup>(3)</sup> 2019-01-06: Compensated via GreenTripper.org by supporting [The Paradigm Project](https://www.co2logic.com/sites/default/files/documents/GS%20VER_Kenya%20Paradigm_eng_0.pdf), avoiding deforestation in Kenya.
+
+More resources:
+- [GreenTripper.org](https://www.greentripper.org/)
+- [Brussels Airlines CO2 Compensation](https://www.brusselsairlines.com/nl-be/corporate/maatschappelijke-verantwoordelijkheid/co2-compensatie.aspx)
