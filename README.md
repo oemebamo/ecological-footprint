@@ -4,6 +4,6 @@ Keeping a log on those activities that leave a big ecological footprint, and whe
 
 - ✈️ [Flight Tracker](flight-tracker.md)
 - 💃 [Energy Consumption House](energy-consumption-house.md)
-- 💃 [Car Mileage Tracker](car-mileage-tracker.md)
+- 🚗 [Car Mileage Tracker](car-mileage-tracker.md)
 
 _(This started as a 2019 New Year's Resolution.)_
