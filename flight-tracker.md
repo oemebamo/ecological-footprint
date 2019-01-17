@@ -8,8 +8,8 @@
 | 2018-10-09 | Business | SN501: Brussels (BRU) - New York Kennedy, NY (JFK) | 1 | 5900km | 1.1t CO2 | No |
 | 2018-05-11 | Business | UA950: Washington, DC (IAD) - Brussels (BRU) | 1 | 6300km | 1.2t CO2 | No |
 | 2018-05-06 | Business | UA951: Brussels (BRU) - Washington, DC (IAD) | 1 | 6300km | 1.2t CO2 | No |
-| 2018-01-05 | Tourism | OS8173: Vienna (VIA) - Brussels (BRU) | 2 | 900km | 0.423t CO2 | No |
-| 2017-12-29 | Tourism | OS352: Brussels (BRU) - Vienna (VIA) | 2 | 900km | 0.423t CO2 | No |
+| 2018-01-05 | Tourism | OS8173: Vienna (VIA) - Brussels (BRU) | 2 | 900km | 0.423t CO2 | Yes <sup>(4)</sup> |
+| 2017-12-29 | Tourism | OS352: Brussels (BRU) - Vienna (VIA) | 2 | 900km | 0.423t CO2 | Yes <sup>(4)</sup> |
 | 2017-05-05 | Business | TAP616: Lisbon (LIS) - Brussels (BRU) | 1 | 1700km | 0.347t CO2 | No |
 | 2017-05-04 | Business | TAP224: Miami (MIA) - Lisbon (LIS) | 1 | 6700km | 1.2t CO2 | No |
 | 2017-05-01 | Business | TAP223: Lisbon (LIS) - Miami (MIA) | 1 | 6700km | 1.2t CO2 | No |
@@ -29,6 +29,7 @@
 # CO2 Compensation
 
 - <sup>(3)</sup> 2019-01-06: Compensated via GreenTripper.org by supporting [The Paradigm Project](https://www.co2logic.com/sites/default/files/documents/GS%20VER_Kenya%20Paradigm_eng_0.pdf), avoiding deforestation in Kenya.
+- <sup>(4)</sup> 2019-01-17: Compensated via [ClimateAustria](https://co2calc.climateaustria.at).
 
 More resources:
 
