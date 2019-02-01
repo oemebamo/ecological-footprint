@@ -2,7 +2,7 @@
 
 | Date | Reason | Flight | People | Distance | Footprint <sup>(1)</sup> | Comp'd? <sup>(2)</sup> |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2019-01-30 | Yes <sup>(5)</sup> | UA950: Washington, DC (IAD) - Brussels (BRU) | 1 | 6300km | 0.60t CO2 | Yes <sup>(5)</sup> |
+| 2019-01-30 | Business | UA950: Washington, DC (IAD) - Brussels (BRU) | 1 | 6300km | 0.60t CO2 | Yes <sup>(5)</sup> |
 | 2018-01-26 | Business | UA951: Brussels (BRU) - Washington, DC (IAD) | 1 | 6300km | 0.73t CO2 | Yes <sup>(5)</sup> |
 | 2018-11-25 | Tourism | SN3784: Gran Canaria (LAP) - Brussels (BRU) | 3 | 3029km | 1.8t CO2 | Yes <sup>(3)</sup> |
 | 2018-11-17 | Tourism | SN3783: Brussels (BRU) - Gran Canaria (LAP) | 3 | 3029km | 1.8t CO2 | Yes <sup>(3)</sup> |
