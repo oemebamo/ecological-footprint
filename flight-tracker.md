@@ -28,13 +28,13 @@
 - <sup>(1)</sup> Using https://co2.myclimate.org/en/flight_calculators/new to calculate footprint.
 - <sup>(2)</sup> Whether or not the CO2 footprint of this flight was compensated.
 
-# CO2 Compensation
+## Details on CO2 Compensation
 
 - <sup>(3)</sup> 2019-01-06: Compensated via GreenTripper.org by supporting [The Paradigm Project](https://www.co2logic.com/sites/default/files/documents/GS%20VER_Kenya%20Paradigm_eng_0.pdf), avoiding deforestation in Kenya.
 - <sup>(4)</sup> 2019-01-17: Compensated via [ClimateAustria](https://co2calc.climateaustria.at).
 - <sup>(5)</sup> 2019-02-01: Compensated via [United CarbonChoice Carbon Offset Program](https://www.united.com/web/en-US/content/company/globalcitizenship/environment/carbon-offset-program.aspx) by supporting [Alto Mayo Conservation Initiative](http://co2offsets.sustainabletravelinternational.org/ua/offsets/programinfo.html#alto_mayo).
 
-More resources:
+## Resources
 
 - [GreenTripper.org](https://www.greentripper.org/)
 - [Brussels Airlines CO2 Compensation](https://www.brusselsairlines.com/nl-be/corporate/maatschappelijke-verantwoordelijkheid/co2-compensatie.aspx)
