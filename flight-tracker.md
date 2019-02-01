@@ -2,14 +2,14 @@
 
 | Date | Reason | Flight | People | Distance | Footprint <sup>(1)</sup> | Comp'd? <sup>(2)</sup> |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2019-01-30 | Business | UA950: Washington, DC (IAD) - Brussels (BRU) | 1 | 6300km | 0.60t CO2 | No |
-| 2018-01-26 | Business | UA951: Brussels (BRU) - Washington, DC (IAD) | 1 | 6300km | 0.73t CO2 | No |
+| 2019-01-30 | Yes <sup>(5)</sup> | UA950: Washington, DC (IAD) - Brussels (BRU) | 1 | 6300km | 0.60t CO2 | Yes <sup>(5)</sup> |
+| 2018-01-26 | Business | UA951: Brussels (BRU) - Washington, DC (IAD) | 1 | 6300km | 0.73t CO2 | Yes <sup>(5)</sup> |
 | 2018-11-25 | Tourism | SN3784: Gran Canaria (LAP) - Brussels (BRU) | 3 | 3029km | 1.8t CO2 | Yes <sup>(3)</sup> |
 | 2018-11-17 | Tourism | SN3783: Brussels (BRU) - Gran Canaria (LAP) | 3 | 3029km | 1.8t CO2 | Yes <sup>(3)</sup> |
 | 2018-10-12 | Business | SN502: New York Kennedy, NY (JFK) - Brussels (BRU) | 1 | 5900km | 1.1t CO2 | No |
 | 2018-10-09 | Business | SN501: Brussels (BRU) - New York Kennedy, NY (JFK) | 1 | 5900km | 1.1t CO2 | No |
-| 2018-05-11 | Business | UA950: Washington, DC (IAD) - Brussels (BRU) | 1 | 6300km | 0.57t CO2 | No |
-| 2018-05-06 | Business | UA951: Brussels (BRU) - Washington, DC (IAD) | 1 | 6300km | 0.65t CO2 | No |
+| 2018-05-11 | Business | UA950: Washington, DC (IAD) - Brussels (BRU) | 1 | 6300km | 0.57t CO2 | Yes <sup>(5)</sup> |
+| 2018-05-06 | Business | UA951: Brussels (BRU) - Washington, DC (IAD) | 1 | 6300km | 0.65t CO2 | Yes <sup>(5)</sup> |
 | 2018-01-05 | Tourism | OS8173: Vienna (VIA) - Brussels (BRU) | 2 | 900km | 0.423t CO2 | Yes <sup>(4)</sup> |
 | 2017-12-29 | Tourism | OS352: Brussels (BRU) - Vienna (VIA) | 2 | 900km | 0.423t CO2 | Yes <sup>(4)</sup> |
 | 2017-05-05 | Business | TAP616: Lisbon (LIS) - Brussels (BRU) | 1 | 1700km | 0.347t CO2 | No |
@@ -32,6 +32,7 @@
 
 - <sup>(3)</sup> 2019-01-06: Compensated via GreenTripper.org by supporting [The Paradigm Project](https://www.co2logic.com/sites/default/files/documents/GS%20VER_Kenya%20Paradigm_eng_0.pdf), avoiding deforestation in Kenya.
 - <sup>(4)</sup> 2019-01-17: Compensated via [ClimateAustria](https://co2calc.climateaustria.at).
+- <sup>(5)</sup> 2019-02-01: Compensated via [United CarbonChoice Carbon Offset Program](https://www.united.com/web/en-US/content/company/globalcitizenship/environment/carbon-offset-program.aspx) by supporting [Alto Mayo Conservation Initiative](http://co2offsets.sustainabletravelinternational.org/ua/offsets/programinfo.html#alto_mayo).
 
 More resources:
 
