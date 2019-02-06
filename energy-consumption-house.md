@@ -1,6 +1,6 @@
 # 🏠 Energy Consumption House
 
-## Meter Readings
+## 📊 Meter Readings
 
 | Date | Gas Meter | Electricity Meter | Water Meter |
 | --- | --- | --- | --- |
@@ -11,3 +11,9 @@
 | 2018-03-14 | 7642,00 m³ | 9311,00 kWh | ? | 
 | 2019-01-06 | 8232,455 m³ | 10638,8 kWh | 307 m³ 491 l |
 | 2019-02-01 | 8397,669 m³ | 10810,7 kWh | 311 m³ 517 l |
+
+## 🔨 Renovations
+
+| Date | Description |
+| --- | --- |
+| 2019-02-05 | Cavity wall insulation back facade |
