@@ -33,4 +33,4 @@
 | --- | --- |
 | 2019-02-05 | Cavity wall insulation back facade |
 | 2020-04-28 | Roof insulation |
-| 2020-05-05 | 8 solar panels on roof |
+| 2020-05-05 | Solar panels on roof (8 panels of 275Wp) |
