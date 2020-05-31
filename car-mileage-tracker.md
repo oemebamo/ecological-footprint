@@ -1,6 +1,6 @@
 # 🚗 Car Mileage Tracker
 
-## Meter Readings
+## 📊 Meter Readings
 
 | Date | Car | Mileage | Monthly Distance |
 | --- | --- | --- | --- |
