@@ -19,3 +19,4 @@
 | 2020-02-01 | Audi A4 Avant 2016 | 53840 km | 1340 km |
 | 2020-04-01 | Audi A4 Avant 2016 | 54589 km | 749 km |
 | 2020-05-01 | Audi A4 Avant 2016 | 54593 km | 4 km |
+| 2020-06-01 | Audi A4 Avant 2016 | 54660 km | 67 km |
