@@ -23,3 +23,4 @@
 | 2020-07-01 | Audi A4 Avant 2016 | 54960 km | 300 km |
 | 2020-07-01 | Tesla Model 3 2020 | 255 km | 255 km |
 | 2020-08-01 | Tesla Model 3 2020 | 1193 km | 938 km |
+| 2020-09-01 | Tesla Model 3 2020 | 2397 km | 1204 km |
