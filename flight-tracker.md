@@ -2,6 +2,8 @@
 
 | Date | Reason | Flight | People | Distance | Footprint <sup>(1)</sup> | Comp'd? <sup>(2)</sup> |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-21 | Tourism | TAP648: Lisbon (LIS) - Brussels (BRU) | 1 | 1700km | 0.347t CO2 | No |
+| 2021-10-13 | Tourism | TAP647: Brussels (BRU) - Lisbon (LIS) | 1 | 1700km | 0.347t CO2 | No |
 | 2019-11-19 | Business | UA950: Washington, DC (IAD) - Brussels (BRU) | 1 | 6300km | 0.60t CO2 | No |
 | 2019-11-16 | Business | UA951: Brussels (BRU) - Washington, DC (IAD) | 1 | 6300km | 0.73t CO2 | No |
 | 2019-01-30 | Business | UA950: Washington, DC (IAD) - Brussels (BRU) | 1 | 6300km | 0.60t CO2 | Yes <sup>(5)</sup> |
