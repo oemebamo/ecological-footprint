@@ -30,3 +30,10 @@
 | 2021-02-01 | Tesla Model 3 2020 | 5211 km | _499,5 km_ |
 | 2021-03-01 | Tesla Model 3 2020 | 5640 km | 429 km |
 | 2021-04-01 | Tesla Model 3 2020 | 6419 km | 779 km |
+| 2021-05-01 | Tesla Model 3 2020 | 7313 km | 894 km |
+| 2021-06-03 | Tesla Model 3 2020 | 8220 km | 907 km |
+| 2021-07-01 | Tesla Model 3 2020 | 8992 km | 772 km |
+| 2021-08-02 | Tesla Model 3 2020 | 10075 km | 1083 km |
+| 2021-09-01 | Tesla Model 3 2020 | 10863 km | 788 km |
+| 2021-11-03 | Tesla Model 3 2020 | 12265 km | _701 km_ |
+
