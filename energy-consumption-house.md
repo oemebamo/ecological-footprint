@@ -94,4 +94,4 @@
 | 2020-04-28 | Roof insulation |
 | 2020-05-05 | Solar panels on roof (8 panels of 275Wp) |
 | 2022-04-01 | Shutters & stores |
-| 2020-10-12 | Ventilation |
+| 2022-10-12 | Ventilation |
